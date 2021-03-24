@@ -1,4 +1,9 @@
 # BreakingBadQuotes
 
-API
+## Tech
+* API
+* Javascript
+* CSS3
+
+## API
 https://breakingbadapi.com/
